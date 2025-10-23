@@ -1,0 +1,16 @@
+{
+  "android_info": {
+    "sejarah": {
+      "title": "Sejarah Android",
+      "content": "Android dikembangkan oleh Andy Rubin dan timnya pada tahun 2003. Awalnya digunakan untuk kamera digital sebelum diakuisisi oleh Google pada 2005."
+    },
+    "arsitektur": {
+      "title": "Arsitektur Android",
+      "content": "Android memiliki empat lapisan utama: Applications, Application Framework, Libraries & Android Runtime, serta Linux Kernel."
+    },
+    "lingkungan": {
+      "title": "Lingkungan Pengembangan",
+      "content": "Android Studio adalah IDE resmi yang digunakan untuk membangun aplikasi Android. Flutter juga dapat digunakan untuk membuat aplikasi lintas platform."
+    }
+  }
+}
