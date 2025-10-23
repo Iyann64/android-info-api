@@ -2,18 +2,37 @@
   "android_info": [
     {
       "id": "1",
-      "title": "Sejarah Android",
-      "content": "Android pertama kali dikembangkan oleh Andy Rubin pada tahun 2003."
+      "title": "Android 1.0 (Alpha)",
+      "content": "Rilis pertama Android pada tahun 2008..."
     },
     {
       "id": "2",
-      "title": "Arsitektur Android",
-      "content": "Android memiliki empat lapisan utama: Application, Framework, Libraries, dan Kernel."
+      "title": "Android 14",
+      "content": "Android versi terbaru dengan fitur AI canggih..."
+    }
+  ],
+  "android_architecture": [
+    {
+      "id": "1",
+      "layer": "Application Layer",
+      "description": "Lapisan ini berisi aplikasi yang langsung digunakan oleh pengguna."
     },
     {
-      "id": "3",
-      "title": "Lingkungan Pengembangan",
-      "content": "Android Studio adalah IDE resmi untuk mengembangkan aplikasi Android, sedangkan Flutter digunakan untuk multiplatform."
+      "id": "2",
+      "layer": "Framework Layer",
+      "description": "Menyediakan API untuk pengembang agar bisa membuat aplikasi."
+    }
+  ],
+  "android_environment": [
+    {
+      "id": "1",
+      "tool": "Android Studio",
+      "description": "IDE resmi untuk pengembangan aplikasi Android."
+    },
+    {
+      "id": "2",
+      "tool": "Flutter",
+      "description": "Framework UI multiplatform dari Google."
     }
   ]
 }
